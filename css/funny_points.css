@@ -1,0 +1,29 @@
+body {
+	background: url('../img/funny_points_background.gif') fixed;
+	background-size: cover;
+	overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+h1, h3, h4 {
+	color: white;
+	text-align: center;
+	height: 40px;
+}
+
+.content {
+	margin-top: 200px;
+}
+
+#points {
+	font-size: 100px;
+}
+
+#minus, #plus {
+	margin-top: 70px;
+	text-align: center;
+	font-size: 100px;
+	width: 300px;
+	height: 200px;
+}
+
