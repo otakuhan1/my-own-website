@@ -1,0 +1,11 @@
+$(document).ready(function(){
+  $(".cart>h3").click(function(){
+    $(this).next().toggle();
+  });
+  $(".account>h3").click(function(){
+    $(this).next().toggle();
+  });
+  $(".help>h3").click(function(){
+    $(this).next().toggle();
+  });
+});
