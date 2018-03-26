@@ -15,3 +15,27 @@ body {
 	background-position: top center;
 }
 
+
+a:link { 
+	color:#3C3C3C; 
+	text-decoration:none; 
+} 
+a:visited { 
+	color:yellow; 
+	text-decoration:none; 
+} 
+a:hover { 
+	color:#FF00FF; 
+	text-decoration:none; 
+}
+a:active { 
+	color:#D200D2; 
+	text-decoration:none; 
+}  
+
+.col-md-6, .col-sm-6{
+	text-align: center;
+}
+
+
+
